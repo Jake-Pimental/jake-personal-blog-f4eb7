@@ -53,5 +53,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://jake-personal-blog-f4eb7.netlify.app"
 }
